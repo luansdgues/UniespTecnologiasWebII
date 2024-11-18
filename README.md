@@ -55,8 +55,8 @@ Para concluir o projeto, implemente os seguintes métodos:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/luansantosco/TecnologiasWebII
-   cd TecnologiasWebII
+   git clone https://github.com/luansdgues/UniespTecnologiasWebII.git
+   cd UniespTecnologiasWebII
    ```
 
 2. **Compile e rode a aplicação**:
